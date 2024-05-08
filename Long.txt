@@ -1,0 +1,10 @@
+I am HengLong Sun and I am a Senior majoring in CS.
+
+I have tried to learned on my own and build a few simple projects with MERN stack but I will
+stick with it to solidify my knowledge, just so I can really say I know what I'm doing.
+In addition, instead of JavaScript, I will use TypeScript instead.
+
+My project idea is a clone to StackOverflow but SeasiderOverflow. 
+It includes Users, Posts(questions), Comments(answers). Each question is tag with certain subject,
+probably startout with the courses/subjects at BYU-H. Students can then use this app to help each other better
+understand what they learning / solve problems. 
