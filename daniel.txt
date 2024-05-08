@@ -1,0 +1,5 @@
+I am Daniel Hootini and I am a CS major graduating in Fall 2025.
+
+I hope to learn more about the use of APIs and how to create web apps.
+
+For my web application, I was thinking of creating a platform for alumni. Users can create an account and register themselves	as alumni.
